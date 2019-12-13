@@ -1,6 +1,9 @@
 //var direccionWebService = "http://localhost:61078/";
-var direccionWebService = "http://192.168.1.41/WApi_Server_Acosta_Rodriguez/";
+//var direccionWebService = "http://192.168.1.41/WApi_Server_Acosta_Rodriguez/";
 //var direccionWebService = "http://192.168.0.25/WS_Server_Ventas_MVC_Rodriguez/";
+
+var direccionWebService = "http://192.168.1.37/WApi_Server_Acosta_Rodriguez/";
+
 var direccionWebServiceMetodos = direccionWebService;
 
 function ListarProductos(tipo, valor) {
